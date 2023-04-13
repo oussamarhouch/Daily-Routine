@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Montserrat:wght@100&family=PT+Sans:ital@1&family=Ubuntu:wght@300&display=swap');
+
+body {
+    background-color:  #edc7b7;
+    font-family: 'Dancing Script', cursive;
+}
+
+.container {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #ac3b61 !important;
+    font-size: 35px;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.nav-link {
+    color: #ac3b61 !important;
+    font-size: 20px;
+}
+
